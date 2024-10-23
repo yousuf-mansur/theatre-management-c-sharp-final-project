@@ -1,0 +1,14 @@
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\bin\Debug\TheatreManagement.exe.config
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\bin\Debug\TheatreManagement.exe
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\bin\Debug\TheatreManagement.pdb
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.exe
+D:\IsDB-BISEW\IDB Classes\C#\RandomPractice\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\bin\Debug\TheatreManagement.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\bin\Debug\TheatreManagement.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\bin\Debug\TheatreManagement.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\obj\Debug\TheatreManagement.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\obj\Debug\TheatreManagement.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\obj\Debug\TheatreManagement.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Project C#\Final Project\TheatreManagement_1280670_sln\TheatreManagement\obj\Debug\TheatreManagement.pdb
